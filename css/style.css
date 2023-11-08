@@ -13,7 +13,7 @@ header, footer {
   /* min-width: 500px; */
 }
 header {
-  font-family: 'Lato', sans-serif;
+  font-family: Work Sans;
   color: #fff;
   min-height: 100vh;
   display: flex;
@@ -29,14 +29,14 @@ main {
   align-content: center;
 }
 h1 {
-  font-family: 'Poiret One', sans-serif;
+  font-family: Poppins;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
   line-height: 1.3;
 }
 h2 {
-  font-family: 'Poiret One', sans-serif;
+  font-family: Poppins;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -60,7 +60,7 @@ img {
 .bio {
 color: #ffffff;
 font-size: 24px;
-font-family: 'Lato', sans-serif;
+font-family: 'Work Sans';
 }
 .buttonBox {
   display: flex;
@@ -109,7 +109,7 @@ font-family: 'Lato', sans-serif;
 
 .mins {
   display: inline-block;
-  font-family: 'Poiret One', sans-serif;
+  font-family: Poppins;
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.3px;
@@ -120,7 +120,7 @@ font-family: 'Lato', sans-serif;
 }
 
 .description {
-  font-family: 'Lato', sans-serif;
+  font-family: Work Sans;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.29;
@@ -154,4 +154,5 @@ footer {
 }
 .description {
   font-size: 18px;
+}
 }
